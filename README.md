@@ -20,5 +20,11 @@
 - Enrollment - student id, course number, year, semester
 
 ### Rest apis used by other services
-- tbd 
+#### Add /student/new
+- Adds new Student
 
+#### Add /student/addHold
+- Adds a hold on a student
+
+#### Add /student/releaseHold
+- Releases a hold on the student
