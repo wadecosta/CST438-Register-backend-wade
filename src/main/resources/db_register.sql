@@ -1,6 +1,7 @@
 -- script file to create and load tables for registration service.
 create schema register;
 
+
 use register;
 
 DROP TABLE IF EXISTS `course`;
