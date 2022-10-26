@@ -21,7 +21,7 @@
 
 ### Rest apis used by other services
 #### Add /student/new
-- Adds new Student
+- Adds a new Student
 
 #### Add /student/addHold
 - Adds a hold on a student
